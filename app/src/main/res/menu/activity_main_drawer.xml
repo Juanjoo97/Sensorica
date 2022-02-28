@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/menu_home" />
+    <item android:title="Sensores" >
+        <menu>
+            <item
+                android:id="@+id/nav_acelerometro"
+                android:icon="@drawable/ic_acelerometro"
+                android:title="@string/menu_acelerometro" />
+            <item
+                android:id="@+id/nav_promixidad"
+                android:icon="@drawable/ic_proximidad"
+                android:title="@string/menu_proximidad" />
+            <item
+                android:id="@+id/nav_gps"
+                android:icon="@drawable/ic_gps"
+                android:title="GPS" />
+            <item
+                android:id="@+id/nav_orientacion"
+                android:icon="@drawable/ic_bru"
+                android:title="Orientación" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sensorica</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sensor Xiaomi Note 8 Pro</string>
+    <string name="nav_header_subtitle">Bienvenido</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_about">Acerca de</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_acelerometro">Acelerometro</string>
+    <string name="menu_proximidad">Proximidad</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_GPS">GPS</string>
+</resources>
